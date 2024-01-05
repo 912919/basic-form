@@ -1,0 +1,22 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "node related files",
+  "main": "index.js",
+  "scripts": {
+    "test": "COD1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userAashu/basic-form.git"
+  },
+  "keywords": [
+    "userAashu"
+  ],
+  "author": "Aashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/userAashu/basic-form/issues"
+  },
+  "homepage": "https://github.com/userAashu/basic-form#readme"
+}
